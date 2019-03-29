@@ -16,5 +16,6 @@ namespace MyDelegateEvent.Event
         {
             Console.WriteLine("{0} Turn", this.GetType().Name);
         }
+        ////
     }
 }

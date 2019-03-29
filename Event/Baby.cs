@@ -20,5 +20,7 @@ namespace MyDelegateEvent.Event
         {
             Console.WriteLine("{0} Cry", this.GetType().Name);
         }
+
+        ////
     }
 }

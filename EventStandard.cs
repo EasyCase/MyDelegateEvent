@@ -8,6 +8,8 @@ namespace MyDelegateEvent
 {
     public class EventStandard
     {
+
+
         public static void Show()
         {
             Lesson lesson = new Lesson()
